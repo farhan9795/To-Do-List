@@ -6,7 +6,7 @@ Aplikasi yang berfungsi untuk menambahan tugas, penghapusan tugas keseluruhan ma
 ## Fitur
 - Tambah tugas
 - Tandai tugas selesai
-- Hapus tugas
+- Hapus tugas (keseluruhan dan satu persatu)
 
 ## Struktur Folder
 - 'index.php' - halaman utama
